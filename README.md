@@ -1,4 +1,6 @@
 # Luminous
+# Team - BIG STEPPERS
+# Anushka Sharma, Shreya, Ananya Verma
 
 Home Page
 ![image](https://github.com/user-attachments/assets/035eafd0-b986-4a86-bfd0-b1a94914105c)
